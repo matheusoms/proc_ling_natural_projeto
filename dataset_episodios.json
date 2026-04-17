@@ -1,0 +1,1289 @@
+[
+  {
+    "id": "1",
+    "titulo": "One Piece - Derrote-o! O Pirata Ganzack",
+    "data": "26 de Julho de 1998",
+    "resumo": "Enquanto Luffy e sua tripulação, Zoro e Nami, estão famintos em seu pequeno barco, eles são atacados por um grande monstro. Nami é levada, enquanto Luffy e Zoro afundam e vão parar em uma praia. Lá, eles encontram uma jovem garota, Medaka, e descobrem a triste história da ilha. O pirata Ganzack escravizou os homens da aldeia, incluindo o pai de Medaka, e os forçou a construir uma gande arma. Agora, Luffy, Zoro e Medaka devem se infiltrar na base de Ganzack para resgatar os residentes da ilha e Nami.",
+    "arco": "OVA de One Piece",
+    "saga": "Saga East Blue",
+    "tipo": "OVA"
+  },
+  {
+    "id": "001",
+    "titulo": "Eu Sou Luffy! O Homem que Vai Ser O Rei dos Piratas!",
+    "data": "20 de Outubro, de 1999",
+    "resumo": "Um bando pirata liderado por Alvida invadem um navio e encontram um barril. De dentro dele, surge Luffy, um garoto em busca do One Piece. Ele vira amigo de Koby, um garoto que almeja ser um marinheiro e por azar acabou se tornando um serviçal no navio da pirata. Luffy derrota Alvida e os dois embarcam em uma jornada em busca de companheiros.",
+    "arco": "Arco Romance Dawn",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "002",
+    "titulo": "O Grande Espadachim Aparece! O Caçador de Piratas, Roronoa Zoro",
+    "data": "17 de Novembro, de 1999",
+    "resumo": "Luffy e Koby chegam a Ilha das Conchas, uma das bases da Marinha. Eles encontram o caçador de piratas Roronoa Zoro, mantido prisioneiro pelo infame Capitão Morgan e seu filho Helmeppo.",
+    "arco": "Arco Romance Dawn",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "003",
+    "titulo": "Morgan vs. Luffy! Quem É Aquela Linda Misteriosa?",
+    "data": "24 de Novembro, de 1999",
+    "resumo": "Luffy convence Zoro a juntar-se ao seu bando, mas para isso precisam derrotar o Capitão Morgan. Após livrarem a ilha da tirania do marinheiro, Koby é recrutado pela Marinha enquanto os outros dois continuam sua jornada.",
+    "arco": "Arco Romance Dawn",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "004",
+    "titulo": "O Passado de Luffy! Shanks, O Ruivo, Aparece!",
+    "data": "8 de Dezembro, de 1999",
+    "resumo": "Navegando no oceano, Luffy quase perde seu chapéu, e isso abre margem ao garoto relembrar de seu passado e a influência de um pirata chamado Shanks em sua vida. Posteriormente, Luffy desembarca em Orange Town, uma vila sob domínio do infame Buggy, O Palhaço, onde acaba encontrando Nami.",
+    "arco": "Arco Orange Town",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "005",
+    "titulo": "Medo, Poder Misterioso! O Palhaço Pirata, Capitão Buggy!",
+    "data": "15 de Dezembro, de 1999",
+    "resumo": "Querendo se safar e roubar um mapa da Grand Line, Nami engana Luffy e entrega o garoto ao pirata Buggy.",
+    "arco": "Arco Orange Town",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "-",
+    "titulo": "Plano de Emergência, Uma Estratégia Perfeita Para o One Piece",
+    "data": "22 de Dezembrode 1999",
+    "resumo": "Esse é o primeiro episódio de recapitulação. Ele cobre os cinco primeiros episódios, porém seguindo a ordem dos eventos apresentada no mangá, iniciando com a história de Luffy e Shanks. Ao final do episódio, os Chapéus de Palha (Luffy, Zoro e Nami), falam sobre seus objetivos.",
+    "arco": "Arco Orange Town",
+    "saga": "Saga East Blue",
+    "tipo": "Especial TV"
+  },
+  {
+    "id": "006",
+    "titulo": "Situação Desesperadora! Mohji, O Domador, Contra Luffy!",
+    "data": "29 de Dezembro, de 1999",
+    "resumo": "Mohji e Richie querem se vingar da derrota de Buggy no episódio anterior, enquanto Luffy encontra um cachorrinho que protege a loja de seu mestre, mesmo sabendo que ele havia morrido.",
+    "arco": "Arco Orange Town",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "007",
+    "titulo": "Grande Duelo! Zoro, O Espadachim vs. Cabaji, O Acrobata!",
+    "data": "29 de Dezembro, de 1999",
+    "resumo": "Revoltado com os Piratas Buggy, o prefeito da cidade se apronta para ir enfrentá-los, mas os Piratas do Chapéu de Palha o salvam. Zoro luta com Cabaji, apesar de ter sido ferido por Buggy anteriormente, enquanto Luffy enfrenta o palhaço e Nami continua a busca pelo mapa da Grand Line.",
+    "arco": "Arco Orange Town",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "008",
+    "titulo": "Quem Será O Vencedor? Confronto das Habilidades da Akuma no Mi!",
+    "data": "29 de Dezembro, de 1999",
+    "resumo": "A ligação entre Buggy e Shanks é explica, e quando o palhaço mexe com o chapéu de palha de Luffy, o garoto fica irado. Quem vencerá esse duelo entre usuários de Akuma no Mi?",
+    "arco": "Arco Orange Town",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "009",
+    "titulo": "Honorável Mentiroso? Capitão Usopp",
+    "data": "12 de Janeiro, de 2000",
+    "resumo": "Com uma aliança temporária de Nami como navegadora, o bando chega à Vila Syrup em busca de adquirir um navio. Lá, conhecem Usopp, um jovem mentiroso que também possui laços com Shanks.",
+    "arco": "Arco Vila Syrup",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "010",
+    "titulo": "O Homem Mais Estranho do Mundo! Jango, O Hipnotizador!",
+    "data": "19 de Janeiro, de 2000",
+    "resumo": "Tentando convencer sua amiga rica, Kaya, a dar um navio para os Chapéus de Palha, Usopp é intimado a ficar longe dela por seu mordomo, Klahadore. Contudo, quando ele e Luffy veem-no conversando com um homem estranho, eles descobrem que Kaya corre perigo.",
+    "arco": "Arco Vila Syrup",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "011",
+    "titulo": "Revelando a Conspiração! O Pirata Mordomo, Capitão Kuro",
+    "data": "26 de Janeiro, de 2000",
+    "resumo": "Após descobrir o plano maligno de Capitão Kuro, Usopp corre para contar a Kaya, mas é inútil, pois todas suas mentiras fizeram com que ninguém acreditasse mais nele.",
+    "arco": "Arco Vila Syrup",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "012",
+    "titulo": "Impacto Violento! Os Piratas do Gato Preto. Grandes Ataques e Defesas na Ladeira!",
+    "data": "2 de Fevereiro, de 2000",
+    "resumo": "Usopp decide manter toda a história dos piratas como uma mentira para que ninguém da vila fique exposto ao perigo. Ele, junto com Luffy, Zoro e Nami, interceptam os piratas na costa, planejando derrotá-los ali mesmo.",
+    "arco": "Arco Vila Syrup",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "013",
+    "titulo": "A Temível Dupla! Irmãos Nyaban vs. Zoro",
+    "data": "9 de Fevereiro, de 2000",
+    "resumo": "Os Chapéus de Palha conseguem derrotar a maioria dos Piratas do Gato Preto, então Jango manda os Irmãos Nyaban pra luta. Enquanto isso, após ser hipnotizado, Luffy arranca uma parte da proa do navio dos Piratas do Gato Preto, mas acaba derrubando e ficando preso debaixo dele.",
+    "arco": "Arco Vila Syrup",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "014",
+    "titulo": "A Volta de Luffy! A Incrível Persistência da Senhorita Kaya",
+    "data": "16 de Fevereiro, de 2000",
+    "resumo": "Capitão Kuro chega ao local, e tudo parece estar perdido com Luffy desacordado, Zoro machucado e só Nami e Usopp para enfrentá-lo. Contudo, Kaya aparece para negociar com ele.",
+    "arco": "Arco Vila Syrup",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "015",
+    "titulo": "Derrote o Kuro! As Lágrimas da Decisão de Um Homem Chamado Usopp!",
+    "data": "23 de Fevereiro, de 2000",
+    "resumo": "Zoro e Buchi (dos Irmãos Nyaban) se enfrentam novamente quando Luffy e Kuro começam a lutar. Usopp ordena seus jovens piratas a fugirem com Kaya, mas Jango vai atrás deles. Um flashback revela como o capitão dos Piratas do Gato Preto fingiu sua morte com Capitão Morgan e se tornou mordomo de Kaya.",
+    "arco": "Arco Vila Syrup",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "016",
+    "titulo": "Protejam Kaya! O Grandioso Trabalho dos Piratas Usopp!",
+    "data": "1 de Março, de 2000",
+    "resumo": "Com a batalha de Luffy e Kuro chegando ao clímax, os Piratas Usopp fazem o possível para despistar Jango.",
+    "arco": "Arco Vila Syrup",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "01",
+    "titulo": "One Piece: O Filme",
+    "data": "4 de Marçode 2000",
+    "resumo": "Os Chapéus de Palha embarcam em uma busca pelo tesouro do lendário pirata Woonan, mas as coisas complicam quando o temível El Drago também está em busca dele.",
+    "arco": "Arco Vila Syrup",
+    "saga": "Saga East Blue",
+    "tipo": "Filme"
+  },
+  {
+    "id": "017",
+    "titulo": "Explosão de Raiva! O Final da Batalha Entre Kuro e Luffy!",
+    "data": "8 de Março, de 2000",
+    "resumo": "A técnica mais poderosa de Kuro, \"Shakushi\", ataca tudo ao seu redor, seja amigo ou inimigo, e a falta de consideração dele por seus companheiros enfurece Luffy. Será que a determinação do garoto irá superar a incrível velocidade do capitão dos Piratas do Gato Preto?",
+    "arco": "Arco Vila Syrup",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "018",
+    "titulo": "Você É Uma Raridade! Gaimon e Seus Estranhos Amigos!",
+    "data": "15 de Março, de 2000",
+    "resumo": "Com um novo navio, Going Merry, e um novo companheiro, Usopp, os Chapéus de Palha vão até seu próximo destino. Eles chegam em uma ilha que é dito possuir um grande tesouro, mas acabam encontrando uma estranho homem preso em um baú, que também procurava por esse tesouro.",
+    "arco": "Arco Vila Syrup",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "019",
+    "titulo": "O Passado do Santoryu! O Juramento de Zoro e Kuina!",
+    "data": "22 de Março, de 2000",
+    "resumo": "Enquanto Usopp e Luffy passam o tempo com o canhão do navio, Zoro sonha com sua infância e a promessa que fez a Kuina.",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "020",
+    "titulo": "O Famoso Cozinheiro! Sanji, do Restaurante Flutuante",
+    "data": "12 de Abril, de 2000",
+    "resumo": "O bando encontra Johnny e Yosaku, ex-companheiros de Zoro, e rumam até o restaurante marítimo Baratie em busca de um cozinheiro para o bando.",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "021",
+    "titulo": "Um Freguês Indesejado! A Comida de Sanji e a Gratidão de Gin",
+    "data": "12 de Abril, de 2000",
+    "resumo": "Sanji, um cozinheiro do Baratie, ajuda Gin, um pirata faminto. Luffy começa  trabalhar como garçom para custear os danos ao Baratie e tenta convencer Sanji a juntar-se ao bando.",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "022",
+    "titulo": "A Frota Pirata Mais Poderosa! Capitão Don Krieg",
+    "data": "26 de Abril, de 2000",
+    "resumo": "Gin retorna ao Baratie com seu capitão, Don Krieg, também faminto. Sanji o alimenta, porém, assim que ele se recupera, revela suas verdadeiras intenções e começa um alvoroço.",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "023",
+    "titulo": "Protejam o Baratie! O Grande Pirata da Perna Vermelha, Zeff",
+    "data": "3 de Maio, de 2000",
+    "resumo": "É revelado que o chefe do Baratie foi um grande pirata conhecido conhecido como Zeff da Perna Vermelha. Gin explica o terror que seu bando passou na Grand Line quando encontrou com Mihawk Olhos de Falcão. Krieg tenta tomar o Baratie para si.",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "024",
+    "titulo": "Mihawk dos Olhos de Falcão! Zoro, O Espadachim, Cai no Mar",
+    "data": "10 de Maio, de 2000",
+    "resumo": "Nami rouba o Going Merry. Mihawk volta para terminar o que começou, mas logo é desafiado por Zoro para definir o melhor espadachim.",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "025",
+    "titulo": "Sequência de Chutes Mortais! Sanji vs. Pearl, O Parede de Ferro",
+    "data": "17 de Maio, de 2000",
+    "resumo": "Mihawk parte após derrotar Zoro, então Krieg continua a tomada d o restaurante. Pearl, um de seus companheiros mais fortes, enfrenta Sanji, que demonstra suas técnicas. Enquanto isso, Johnny e Yosaku partem com Usopp e Zoro, bastante ferido, atrás de Nami.",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "026",
+    "titulo": "O Sonho de Zeff e Sanji. O Mar dos Sonhos, All Blue",
+    "data": "24 de Maio, de 2000",
+    "resumo": "Com Zeff sendo feito de refém por Gin, Sanji é submetido aos golpes de Pearl, e ele pensa o quanto o chefe significa pra ele",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "027",
+    "titulo": "O Diabólico Homem de Sangue Frio. Comandante de Batalha da Tripulação Pirata, Gin",
+    "data": "31 de Maio, de 2000",
+    "resumo": "Gin finaliza Pearl, dizendo que ele mesmo quer acabar com Sanji. Ferido, Sanji enfrenta o homem enquanto Luffy encara Don Krieg.",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "028",
+    "titulo": "Eu Não Morrerei! Desfecho: Luffy vs. Krieg!",
+    "data": "7 de Junho, de 2000",
+    "resumo": "Quando Gin se nega a matar Sanji, Don Krieg impesteia a área com gás venenoso. Luffy parece estar ganhando do capitão até que ele puxa sua lança explosiva.",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "029",
+    "titulo": "O Resultado de Uma Batalha Mortal! A Lança Interior!",
+    "data": "21 de Junho, de 2000",
+    "resumo": "Mesmo sofrendo com a lança de Don Krieg, Luffy se recusa a desistir.",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "030",
+    "titulo": "Partida! O Cozinheiro do Mar e Luffy Viajam Juntos",
+    "data": "28 de Junho, de 2000",
+    "resumo": "Com o fim da batalha, Gin decide voltar à Grand Line com Don Krieg apesar de ainda ter sido envenenado, e Sanji tenta decidir se fica ou se vai com Luffy. Yosaku retorna ao restaurante e diz que sabe onde Nami está.",
+    "arco": "Arco Baratie",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "031",
+    "titulo": "O Homem Mais Terrível do East Blue! Arlong, o Pirata Homem-Peixe!",
+    "data": "12 de Julho, de 2000",
+    "resumo": "O bando vai em busca de Nami, que roubou seu navio, e durante o caminho Yosaku explica tudo sobre Arlong e seu bando para Luffy e Sanji. Enquanto isso, Usopp, Johnny e Zoro chegam a ilha onde Nami está.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "032",
+    "titulo": "A Bruxa da Vila Cocoyashi! A Administradora Feminina de Arlong",
+    "data": "19 de Julho, de 2000",
+    "resumo": "Zoro é capturado pelos homens-peixe depois de Usopp e Johnny o deixarem de lado, e é revelado que Nami era um membro do bando de Arlong esse tempo todo. Quando um grupo de homens-peixe ataca a Vila Cocoyashi, Usopp aparece para ajudar.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "033",
+    "titulo": "Usopp Irá Morrer?! Luffy Ainda Não Desembarcou?",
+    "data": "19 de Julho, de 2000",
+    "resumo": "Depois de Zoro escapar com ajuda de ami, ela tenta provar sua lealdade aos Piratas Arlong fingindo matar Usopp. Enquanto isso, Luffy, Sanji e Yosaku finalmente chegam à ilha.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "034",
+    "titulo": "Reunidos! Usopp Conta a Verdadeira História de Nami",
+    "data": "26 de Julho, de 2000",
+    "resumo": "Johnny conta para os outros o assassinato de Usopp pelas mãos de Nami, e Luffy não acredita nele até que a garota aparece e confirma tudo. Ela diz para eles saírem de seu caminho e deixarem a ilha, mas o capitão teima e decide continuar na ilha. Usopp se encontra com o grupo, revelando que Nami apenas fingiu matá-lo, e a irmã de Nami, Nojiko, explica o porquê de Nami ser assim.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "035",
+    "titulo": "O Passado Escondido! A Guerreira Bell-mère!",
+    "data": "2 de Agosto, de 2000",
+    "resumo": "Nojiko conta o passado dela, Nami e Bell-mère, a mãe adotiva das duas. Apesar de pobres e não terem laços sanguíneos, elas eram felizes.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "036",
+    "titulo": "Sobrevivam! A Mãe, Bell-mère, e os Laços de Nami!",
+    "data": "9 de Agosto, de 2000",
+    "resumo": "Nojiko continua a história, e conta como sua vida foi arruinada quando os Piratas Arlong invadiram a vila.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "037",
+    "titulo": "Luffy Se Levanta! O Fim de Uma Promessa Quebrada!",
+    "data": "16 de Agosto, de 2000",
+    "resumo": "Quando um oficial da Marinha, a mando de Arlong, confisca tudo que Nami havia conquistado por anos em prol de comprar a vila de Arlong, os moradores decidem acabar com tudo de uma vez por todas, mesmo com Nami relutando. Vendo o sofrimento da garota, os Chapéus de Palha tomam rumo ao Arlong Park.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "038",
+    "titulo": "Luffy em Apuros! Homens-Peixe vs. Piratas de Luffy",
+    "data": "23 de Agosto, de 2000",
+    "resumo": "Os Chapéus de Palha enfrentam os homens-peixe enquanto os moradore da vila assistem tudo.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "039",
+    "titulo": "Luffy Submerge! Zoro vs. o Polvo Hatchan",
+    "data": "30 de Agosto, de 2000",
+    "resumo": "Arlong joga Luffy, preso em uma pedra, no mar. Zoro enfrenta Hatchan, usuário do estilo das seis espadas.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "040",
+    "titulo": "Guerreiros Orgulhosos! A Violenta Batalha de Sanji e Usopp",
+    "data": "6 de Setembro, de 2000",
+    "resumo": "Hatchan é derrotado, e Sanji e Usopp enfrentam outros dois homens-peixe. As coisas complicam pro cozinheiro quando ele enfrenta Kuroobi dentro d'água, e Usopp quer provar que é um bravo guerreiro.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "041",
+    "titulo": "Luffy Vai com Tudo! A Decisão de Nami e o Chapéu de Palha",
+    "data": "13 de Setembro, de 2000",
+    "resumo": "Os comandantes de Arlong são derrotados, mas Sanji e Zoro ficam muito fracos para enfrentar o capitão dos homens-peixe. Entretanto, Luffy é liberto, e é a última esperança para derrotar o \"homem mais temido do East Blue\". Enquanto isso, Nami cria coragem para encarar Arlong.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "042",
+    "titulo": "Explosão! O Homem-Peixe Arlong, Ataque Feroz de Dentro do Mar!",
+    "data": "27 de Setembro, de 2000",
+    "resumo": "Luffy retorna, e a luta entre o garoto e Arlong começa.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "043",
+    "titulo": "O Fim do Império dos Homens-Peixe! A Nami é Minha Companheira!",
+    "data": "27 de Setembro, de 2000",
+    "resumo": "A batalha danifica o Arlong Park, e Arlong não irá mais se conter.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "044",
+    "titulo": "Uma Partida Sorridente! Adeus Cidade Natal, Vila Cocoyashi",
+    "data": "11 de Outubro, de 2000",
+    "resumo": "A tirania de Arlong acaba, e todo mundo quer festejar. O bando celebra, e Nami reflete sobre sua vila e decide se juntar de fato aos Piratas do Chapéu de Palha.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "045",
+    "titulo": "Procura-se! O Mundo Conhece Luffy do Chapéu de Palha!",
+    "data": "25 de Outubro, de 2000",
+    "resumo": "Derrotando Buggy, Krieg e Arlong, Luffy se torna o dono da maior recompensa do East Blue. As notícias chegam até Shanks, que, apesar da resseca, celebra junto com Mihawk.",
+    "arco": "Arco Arlong Park",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "046",
+    "titulo": "Atrás do Chapéu de Palha! A Grande Aventura do Pequeno Buggy",
+    "data": "1 de Novembro, de 2000",
+    "resumo": "Após sua luta com Luffy, Buggy foi mandado pelos ares até outra ilha com praticamente seu corpo inteiro faltando. Então, o palhaço inicia uma jornada em busca de seu bando e seus membros, fazendo amigos peculiares.",
+    "arco": "Arco Secundário do Buggy",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "047",
+    "titulo": "Você Esteve Esperando por Isso! O Retorno do Capitão Buggy!",
+    "data": "8 de Novembro, de 2000",
+    "resumo": "Com Buggy dado como morto, seu bando se enfrenta para decidir o novo capitão, mas são capturados por uma tribo de canibais.",
+    "arco": "Arco Secundário do Buggy",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "048",
+    "titulo": "A Cidade do Começo e do Fim. A Chegada em Loguetown",
+    "data": "22 de Novembro, de 2000",
+    "resumo": "O bando chega em uma grande cidade que fica antes da entrada da Grand Line, Loguetown. É o lugar onde Gold Roger, o rei dos piratas, nasceu e morreu. Eles exploram o lugar em busca de mantimentos, enquanto Luffy procura a plataforma de execução onde Roger foi morto - e antigos inimigos procuram por ele.",
+    "arco": "Arco Loguetown",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "049",
+    "titulo": "Sandai Kitetsu e Yubashiri! As Novas Espadas de Zoro e a Mulher Sargento",
+    "data": "22 de Novembro, de 2000",
+    "resumo": "Na busca por duas espadas para substituir as quebradas por Mihawk, Zoro conhece Tashigi, uma mulher que assombrosamente parece uma versão adulta de Kuina, e ela o ajuda a achar suas próximas espadas.",
+    "arco": "Arco Loguetown",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "050",
+    "titulo": "Usopp vs. Daddy, o Pai. O Duelo em Plena Luz do Dia",
+    "data": "29 de Novembro, de 2000",
+    "resumo": "Usopp se encrenca ao irritar a filha de um famoso caçador de recompensas, Daddy, O Pai. Quando descobre que o garoto era filho de Yasopp, o único homem que conseguiu derrotá-lo, ele desafia Usopp para um duelo.",
+    "arco": "Arco Loguetown",
+    "saga": "Saga East Blue",
+    "tipo": "Filler"
+  },
+  {
+    "id": "051",
+    "titulo": "Uma Incandescente Batalha Culinária? Sanji vs. A Chef Espetacular",
+    "data": "6 de Dezembro, de 2000",
+    "resumo": "Sanji entra em uma competição de culinária para conseguir um peixe raro, e enfrenta uma mulher chamada Carmen, que aparentemente já o conhece.",
+    "arco": "Arco Loguetown",
+    "saga": "Saga East Blue",
+    "tipo": "Filler"
+  },
+  {
+    "id": "052",
+    "titulo": "A Revanche de Buggy! O Homem que Sorri na Plataforma de Execução!",
+    "data": "13 de Dezembro, de 2000",
+    "resumo": "Luffy chega na plataforma de execução, mas cai em uma armadilha de Buggy e Alvida.",
+    "arco": "Arco Loguetown",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "1",
+    "titulo": "A Aventura na Fossa do Oceano",
+    "data": "20 de Dezembrode 2000",
+    "resumo": "Os Chapéus de Palha acabam se deparando com um grande buraco no oceano, onde no fundo dele se encontra um lugar misterioso conhecido como \"Fossa do Oceano\". O bando resolve encontrar o tesouro da ilha, que supostamente pode realizar qualquer desejo, mas os habitantes da ilha possuem outros planos para seus convidados...",
+    "arco": "Arco Loguetown",
+    "saga": "Saga East Blue",
+    "tipo": "Especial TV"
+  },
+  {
+    "id": "053",
+    "titulo": "A Lenda Começou! Em Direção à Grand Line",
+    "data": "10 de Janeiro, de 2001",
+    "resumo": "Salvos milagrosamente por uma estranha ventania e um raio que acerta Buggy, os Chapéus de Palha fogem de Loguetown após Tashigi e Smoker tentarem detê-los.",
+    "arco": "Arco Loguetown",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "054",
+    "titulo": "Pressentimento de Uma Nova Aventura! Apis, a Garota Misteriosa",
+    "data": "17 de Janeiro, de 2001",
+    "resumo": "(Semi-Filler)Em uma noite tempestuosa, uma garota chamada Apis escapa de um navio da Marinha e é encontrada pelos Chapéus de Palha, mas ela não revela o porquê de estar seno procurada pelos marinheiros. O bando consegue fugir deles, mas se deparam com o Calm Belt.",
+    "arco": "Arco Ilha Gunkan",
+    "saga": "Saga East Blue",
+    "tipo": "Semi-Filler"
+  },
+  {
+    "id": "055",
+    "titulo": "A Criatura Milagrosa! O Segredo de Apis e a Ilha Lendária",
+    "data": "24 de Janeiro, de 2001",
+    "resumo": "(Semi-Filler)O Calm Belt é uma região sem ventos e correntes marítimas, além de ser o lar de vários reis dos mares. Apis maquina um plano com Luffy e eles conseguem escapar dos monstros quando um deles espirra, mandando o navio para longe. Mais tarde, o bando chega na Ilha Gunkan, onde ouvem uma tediosa história sobre a criação da ilha. Seguindo os rastros de Apis, Luffy e Nami se deparam com uma caverna onde reside um grande dragão, que é o motivo da menina estar sendo procurada.",
+    "arco": "Arco Ilha Gunkan",
+    "saga": "Saga East Blue",
+    "tipo": "Semi-Filler"
+  },
+  {
+    "id": "056",
+    "titulo": "O Ataque de Erik! A Grande Fuga da Ilha Gunkan!",
+    "data": "31 de Janeiro, de 2001",
+    "resumo": "Sabendo os motivos de Apis estar sendo procurada, o bando se apressa em escapar da ilha para que Ryuuji consiga ser salvo, mas eles encontram um estranho homem que quer o dragão. Zoro e Usopp levam o navio a uma formação rochosa enquanto Nami e Apis colocam a criatura em um carrinho feito com madeira e Luffy e Sanji lutam com os marinheiros para ganhar tempo. E enfim, com o navio puxando o carrinho, eles partem em busca da Lost Island.",
+    "arco": "Arco Ilha Gunkan",
+    "saga": "Saga East Blue",
+    "tipo": "Filler"
+  },
+  {
+    "id": "057",
+    "titulo": "A Ilha Solitária em Um Mar Distante! A Lendária Lost Island",
+    "data": "7 de Fevereiro, de 2001",
+    "resumo": "Após chegarem no que parece ser a Lost Island que eles estavam procurando, os Chapéus de Palha encontram um templo antigo com pinturas que talvez mostrem onde a lendária ilha realmente está. E então, Eric, que havia os seguido, aparece.",
+    "arco": "Arco Ilha Gunkan",
+    "saga": "Saga East Blue",
+    "tipo": "Filler"
+  },
+  {
+    "id": "058",
+    "titulo": "O Duelo nas Ruínas! O Tenso Zoro vs. Erik!",
+    "data": "21 de Fevereiro, de 2001",
+    "resumo": "Zoro enfrenta Eric enquanto Luffy e os outros correm para o navio rumo à Lost Island, mas acabam surgindo mais problemas.",
+    "arco": "Arco Ilha Gunkan",
+    "saga": "Saga East Blue",
+    "tipo": "Filler"
+  },
+  {
+    "id": "059",
+    "titulo": "Luffy Completamente Cercado! O Plano Secreto do Almirante Nelson",
+    "data": "21 de Fevereiro, de 2001",
+    "resumo": "Os Chapéus de Palha se deparam com o Almirante Nelson e sua frota de navios, e Ryuuji corre perigo.",
+    "arco": "Arco Ilha Gunkan",
+    "saga": "Saga East Blue",
+    "tipo": "Filler"
+  },
+  {
+    "id": "060",
+    "titulo": "Aquele que Voa Sobre os Céus! A Lenda Milenar Renasce!",
+    "data": "28 de Fevereiro, de 2001",
+    "resumo": "Em seus últimos momentos, Ryuuji chama todos os seus amigos dragões, e a Lost Island ressurge. Luffy enfrenta o Almirante Nelson e seus navios.",
+    "arco": "Arco Ilha Gunkan",
+    "saga": "Saga East Blue",
+    "tipo": "Filler"
+  },
+  {
+    "id": "02",
+    "titulo": "Aventura na Ilha Nejimaki",
+    "data": "3 de Marçode 2001",
+    "resumo": "O Going Merry é roubado e Nami é sequestrada pelos Irmãos Trump, e para conseguir recuperar ambos os Chapéus de Palha se unem com dois irmãos ladrões e viajam rumo à estranha Ilha Nejimaki.",
+    "arco": "Arco Ilha Gunkan",
+    "saga": "Saga East Blue",
+    "tipo": "Filme"
+  },
+  {
+    "id": "1",
+    "titulo": "Festival de Dança do Jango",
+    "data": "3 de Marçode 2001",
+    "resumo": "Os Chapéus de Palha chegam na Ilha Mirrorball, uma animada ilha, mas logo são perseguidos por marinheiros, assim como Jango, que hipnotiza todo mundo e transforma tudo em uma grande dança.",
+    "arco": "Arco Ilha Gunkan",
+    "saga": "Saga East Blue",
+    "tipo": "Curta-Metragem"
+  },
+  {
+    "id": "061",
+    "titulo": "Fúria na Decisão! Superem a Red Line!",
+    "data": "7 de Março, de 2001",
+    "resumo": "Após deixarem a Ilha Gunkan, os Chapéus de Palha rumam a Grand Line.",
+    "arco": "Arco Ilha Gunkan",
+    "saga": "Saga East Blue",
+    "tipo": "Canon"
+  },
+  {
+    "id": "062",
+    "titulo": "Na Primeira Fortaleza? Surge a Baleia Gigante, Laboon",
+    "data": "21 de Março, de 2001",
+    "resumo": "Assim que entram na Grand Line, o navio é engolido por uma grande baleia, e dentro dela o bando se depara com um lugar estranho. Além disso, os Chapéus de Palha não são os únicos lá.",
+    "arco": "Arco Reverse Mountain",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "063",
+    "titulo": "A Promessa de Um Homem! Luffy e a Baleia, a Promessa do Reencontro",
+    "data": "21 de Março, de 2001",
+    "resumo": "Após ouvirem a história de Laboon, Luffy surge com uma ideia para solucionar seus problemas. Crocus, o homem que cuida da baleia, fala sobre a Grand Line e como navegar por seus mares, já que bússolas não funcionam por lá.",
+    "arco": "Arco Reverse Mountain",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "064",
+    "titulo": "A Cidade Que Recepciona os Piratas? Desembarcando em Whisky Peaky",
+    "data": "15 de Abril, de 2001",
+    "resumo": "Luffy e seu bando chegam em Whisky Peak, uma cidade que ama piratas e fazem uma festa para recepcioná-los.",
+    "arco": "Arco Whisky Peak",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "065",
+    "titulo": "O Santoryu Explosivo! Zoro vs. Baroque Works",
+    "data": "15 de Abril, de 2001",
+    "resumo": "Zoro enfrenta centenas de membros da Baroque Works, e descobre que as aparências enganam.",
+    "arco": "Arco Whisky Peak",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "066",
+    "titulo": "Uma Luta Séria! Luffy vs. Zoro, Grande Batalha Misteriosa",
+    "data": "22 de Abril, de 2001",
+    "resumo": "Luffy, que não sabe da verdadeira identidade dos residentes da ilha, confronta Zoro por tê-los derrotado e os dois começam a lutar. Mr. 5 e Miss Valentine, dois agentes de alto nível da Baroque Works, procuram pela Princesa Vivi.",
+    "arco": "Arco Whisky Peak",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "067",
+    "titulo": "Entreguem a Princesa Vivi! O Bando de Luffy Parte",
+    "data": "29 de Abril, de 2001",
+    "resumo": "Luffy e seu bando se tornam alvos de Crocodile, um dos Shichibukai e líder da Baroque Works, e decidem ajudar a Princesa Vivi. Eles encontram com Miss All-Sunday, a segunda agente mais forte da organização e parceira do líder.",
+    "arco": "Arco Whisky Peak",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "068",
+    "titulo": "Ânimo, Koby! Recordações da Dura Briga com a Marinha de Koby-Meppo",
+    "data": "13 de Maio, de 2001",
+    "resumo": "Enquanto Luffy e seu bando viajam pela Grand Line, Koby e Helmeppo se tornam capachos dos marinheiros no East Blue, e encontram o Vice-Almirante Garp.",
+    "arco": "Arco de Koby e Helmeppo",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "069",
+    "titulo": "A Determinação de Koby-Meppo! Orgulho Paternal do Vice-Almirante Garp",
+    "data": "20 de Maio, de 2001",
+    "resumo": "O Vice-Almirante Garp se torna mentor de Koby e Helmeppo, e fará os dois se tornarem marinheiros de verdade.",
+    "arco": "Arco de Koby e Helmeppo",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "070",
+    "titulo": "A Antiga Ilha! A Sombra À Espreita em Little Garden!",
+    "data": "27 de Maio, de 2001",
+    "resumo": "Os Chapéus de Palha chegam em Little Garden, uma ilha pré-histórica habitada por dinossauros e gigantes.",
+    "arco": "Arco Little Garden",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "071",
+    "titulo": "Um Grande Duelo! Os Gigantes Dorry e Brogy",
+    "data": "3 de Junho, de 2001",
+    "resumo": "Nami e Usopp conhecem um gigante chamado Brogy, enquanto Luffy e Vivi encontram seu rival, Dorry. Os Chapéus de Palha suspeitam que agentes da Baroque Works estão na sua cola.",
+    "arco": "Arco Little Garden",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "072",
+    "titulo": "A Fúria de Luffy! Golpe Baixo em Uma Batalha Sagrada",
+    "data": "17 de Junho, de 2001",
+    "resumo": "Dorry é alvo de uma armadilha ao tomar uma bebida explosiva, e culpa os Chapéus de Palha. Luffy se irrita com o ato covarde de tentar sabotar o duelo honrável dos gigantes.",
+    "arco": "Arco Little Garden",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "073",
+    "titulo": "Brogy Lamenta a Vitória! O Julgamento de Elbaf!",
+    "data": "24 de Junho, de 2001",
+    "resumo": "Luffy tenta, em vão, convencer Dorry, machucado, a não lutar com Brogy. Os agentes que sabotaram a bebida do gigante continuam a interferir o duelo deles.",
+    "arco": "Arco Little Garden",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "074",
+    "titulo": "A Vela do Diabo! Lágrimas de Arrependimento e Lágrimas de Raiva",
+    "data": "15 de Julho, de 2001",
+    "resumo": "Tendo subjugado os gigantes, a Baroque Works começa a a agir. Mr. 3 submete Zoro, Nami, Vivi e Brogy à um torturante método de enceração.",
+    "arco": "Arco Little Garden",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "075",
+    "titulo": "Luffy é Atacado por Magia! Armadilha Colorida!",
+    "data": "12 de Agosto, de 2001",
+    "resumo": "Luffy tenta resgatar seus companheiros mas acaba acelerando o processo de enceração. Para piorar, Miss Goldenweek interfere e revela sua terrível habilidade.",
+    "arco": "Arco Little Garden",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "076",
+    "titulo": "Contra-Ataque Crítico! O Sagaz Usopp e o Kaenboshi!",
+    "data": "19 de Agosto, de 2001",
+    "resumo": "Usopp liberta Luffy do controle de Miss Goldenweek. Com ajuda de Karoo, ele e o Chapéu de Palha resgatam os outros, que enfrentam Mr.5 e Miss Valentine. Luffy e Karoo perseguem Mr. 3 e Miss Goldenweek pela floresta.",
+    "arco": "Arco Little Garden",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "077",
+    "titulo": "Adeus à Ilha dos Gigantes! Em Direção à Alabasta!",
+    "data": "19 de Agosto, de 2001",
+    "resumo": "Depois de uma conversa com Mr. 0 e um encontro com os \"Unluckies\", Sanji consegue um Eternal Pose para Alabasta. O bando deixa Little Garden e tomam rumo à ilha.",
+    "arco": "Arco Little Garden",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "078",
+    "titulo": "Nami Doente? Do Outro Lado da Neve que Cai no Oceano!",
+    "data": "26 de Agosto, de 2001",
+    "resumo": "Nami está doente, mas não há um médico no bando para ajudá-la.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "079",
+    "titulo": "Emboscada! O Bliking e Wapol, o Blik",
+    "data": "2 de Setembro, de 2001",
+    "resumo": "Enquanto procuram por um médico, o bando conhece o pirata Wapol, que os ataca, mas é mandado pelos ares por Luffy. Enquanto isso, Smoker intercepta a conversa entre Mr. 0 e Sanji e planeja ir para Alabasta. A tripulação chega em uma ilha onde descobrem que não são bem-vindos.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "080",
+    "titulo": "Uma Ilha Sem Médicos? Aventura em Um País Sem Nome",
+    "data": "9 de Setembro, de 2001",
+    "resumo": "Os Chapéus de Palha conseguem ganhar a confiança das pessoas que os atacaram, e são levados até a vila menos Zoro e Karoo, que ficam protegendo o navio. Luffy e Sanji devem levar Nami até a médica da ilha que vive em cima da montanha. Vivi e Usopp descobrem com Dalton o passado do local, além de saberem mais sobre Wapol.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "081",
+    "titulo": "Está Feliz? Uma Médica que Foi Chamada de Bruxa!",
+    "data": "16 de Setembro, de 2001",
+    "resumo": "Enquanto Sanji e Luffy encontram dificuldades, o maior pesadelo dos residentes da ilha se torna realidade, onde Wapol retorna para o local. É revelado que a médica está no outro lado da ilha, e Usopp, Vivi e Dalton se apressam para encontrá-la, mas o terceiro retona assim que descobre sobre o retorno do infame pirata.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "082",
+    "titulo": "A Decisão de Dalton! A Chegada das Forças de Wapol",
+    "data": "7 de Outubro, de 2001",
+    "resumo": "Dalton enfrenta Wapol, mas é acertado com flechas por seu antigo companheiro Chess. Uma avalanche interrompe a batalha, mas acaba ferindo Sanji. Luffy deve levar ele e Nami até a doutora, e começa sua provação.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "083",
+    "titulo": "A Ilha que Vive Sob Neve! Suba os Drum Rockies!",
+    "data": "7 de Outubro, de 2001",
+    "resumo": "Os Lapahn ajudam Luffy a escapar de Wapol, dando-o o devido tempo para escalar até o castelo onde Kureha mora. Vivi, Usopp e Zoro lidam com o exército do rei para salvar Dalton. Nami, recuperada, se depara com uma estranha criatura.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "084",
+    "titulo": "A Rena do Nariz Azul! O Segredo de Chopper!",
+    "data": "21 de Outubro, de 2001",
+    "resumo": "Nami pede a Chopper para que se junte ao bando, mas ele não está interessado. Kureha conta à ela um pouco do passado da rena. Após ver suas habilidades, Luffy anseia fazê-lo membro da tripulação.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "085",
+    "titulo": "O Sonho dos Excluídos! Hiriluk, o Curandeiro!",
+    "data": "28 de Outubro, de 2001",
+    "resumo": "Doctorine continua a contar como Chopper vivia e como o doutor Hiriluk cuidou dele.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "086",
+    "titulo": "As Flores de Cerejeira de Hiriluk e a Determinação Herdada!",
+    "data": "4 de Novembro, de 2001",
+    "resumo": "É revelado mais do passado de Chopper, incluindo o destino de doutor Hiriluk e as crueldades de Wapol como rei. Enquanto isso, o pirata chega ao castelo onde o bando está.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "087",
+    "titulo": "Contra o Exército de Wapol! As Habilidades da Baku Baku no Mi!",
+    "data": "11 de Novembro, de 2001",
+    "resumo": "Wapol quer derrubar a bandeira de Hiriluk, e para isso, deve derrotar Sanji, Luffy e Chopper.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "088",
+    "titulo": "A Akuma no Mi do Tipo Zoan! As Sete Transformações de Chopper",
+    "data": "18 de Novembro, de 2001",
+    "resumo": "Chopper mostra as habilidades de suas Rumble Balls ao lutar contra Chessmarimo. Dalton se recupera da avalanche.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "089",
+    "titulo": "Quando o Reinado Acaba! A Bandeira da Crença Será Eterna",
+    "data": "25 de Novembro, de 2001",
+    "resumo": "Após tentar vários truques no castelo, Wapol é derrotado por Luffy. Os residentes da ilha, junto com Zoro, Vivi e Usopp, começam a escalada até o castelo por via de cordas.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "090",
+    "titulo": "As Flores de Cerejeira de Hiriluk! O Milagre nos Drum Rockies",
+    "data": "2 de Dezembro, de 2001",
+    "resumo": "Convencido a se juntar ao bando, Chopper conta para Kureha, mas ela não aceita tão fácil. Porém, depois de escapar do castelo, a doutora dá um presente de despedida para os Chapéus de Palha.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "091",
+    "titulo": "Adeus, Ilha de Drum! Estou Indo para o Mar!",
+    "data": "9 de Dezembro, de 2001",
+    "resumo": "Chopper se junta ao bando e eles continuam sua jornada até a terra natal de Vivi.",
+    "arco": "Arco Ilha Drum",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "092",
+    "titulo": "O Herói de Alabasta e a Bailarina do Navio",
+    "data": "9 de Dezembro, de 2001",
+    "resumo": "Crocodile aparece para acabar com um bando pirata. Luffy e sua tripulação se encontram com Mr. 2, Bon Clay, que demonstra seus poderes de Akuma no Mi; em um momento, Vivi vê algo terrível.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "093",
+    "titulo": "Chegando no País do Deserto! O Pó que Faz Chover e o Exército Rebelde",
+    "data": "16 de Dezembro, de 2001",
+    "resumo": "(Meio-Filler)Luffy se separa do bando logo após chegarem em Nanohana, a cidade portuária de Alabastas. A tripulação se disfarça enquanto o capitão aprende sobre o Dance Powder.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Filler"
+  },
+  {
+    "id": "094",
+    "titulo": "O Reencontro dos Poderosos!Seu Nome é Ace dos Punhos de Fogo",
+    "data": "23 de Dezembro, de 2001",
+    "resumo": "Em Nanohana, os Chapéus de Palha encontram Smoker e Tashigi. Um poderoso pirata chamado Portgas D. Ace aparece, e é revelado que ele é o irmão mais velho de Luffy.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "095",
+    "titulo": "Ace e Luffy! Calorosas Lembranças e Laços de Irmandade",
+    "data": "6 de Janeiro, de 2002",
+    "resumo": "Ace luta com Smoker enquanto os Chapéus de Palha recuam pro Going Merry. Luffy se reúne com seu irmão, e, juntos, derrotam agentes da Baroque Works.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "096",
+    "titulo": "A Cidade Verde, Erumalu, e os Kung Fu Dugong!",
+    "data": "13 de Janeiro, de 2002",
+    "resumo": "Ace decide viajar com os Chapéus de Palha, pois está buscando um homem chamado Barba Negra. O grupo chega na \"Cidade Verde\" de Erumalu, onde a encontram abandonada e coberta por areia. Vivi e Nami explicam o que é o Dance Powder e o que isso fez para Alabasta.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "097",
+    "titulo": "Aventura no País da Areia! Os Monstros da Terra Escaldante",
+    "data": "20 de Janeiro, de 2002",
+    "resumo": "Depois de deixarem Erumalu, os Chapéus de Palha, Vivi e Ace avançam pelo deserto, encontrando perigos por lá.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "098",
+    "titulo": "Surgem os Piratas do Deserto! Homens que Vivem Livremente",
+    "data": "27 de Janeiro, de 2002",
+    "resumo": "(Meio-Filler)Nami e Vivi encontram uma maneira mais fácil de viajar pelo deserto e deixam os homens para trás. Enquanto tentam acompanhá-las, Ace acaba se perdendo. Luffy e o restante encontram os Piratas do Deserto, e Vivi se encontra com alguém do seu passado.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Filler"
+  },
+  {
+    "id": "099",
+    "titulo": "O Espírito dos Falsos! O Coração do Exército Rebelde, Kamyu!",
+    "data": "3 de Fevereiro, de 2002",
+    "resumo": "(Filler)Após ouvir que uma pequena vila tem falsos guardas do Exército Rebelde que estão mantendo a paz, Vivi pede para que os homens do bando testem se eles são realmente capazes disso.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Filler"
+  },
+  {
+    "id": "100",
+    "titulo": "O Guerreiro Rebelde, Koza! O Sonho Jurado à Vivi!",
+    "data": "10 de Fevereiro, de 2002",
+    "resumo": "Ainda andando pelo deserto de Alabasta, o bando derrota um escorpião gigante para poderem se alimentar, enquanto Vivi conta à Nami sobre seu passado e sua amizade com Koza.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "101",
+    "titulo": "A Batalha no Nevoeiro de Calor! Ace vs. Homem-Escorpião",
+    "data": "17 de Fevereiro, de 2002",
+    "resumo": "(Predominantemente filler)Ace descobre que Barba Negra não está em Alabasta, e deixa o bando para poder continuar sua busca. Ele deixa com Luffy um misterioso pedaço de papel, explicando que isso \"os faria se reencontrarem\".",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Filler"
+  },
+  {
+    "id": "102",
+    "titulo": "Ruínas e Caminhos Separados! Vivi, Amigos e a Forma de um País",
+    "data": "24 de Fevereiro, de 2002",
+    "resumo": "(Filler)Zoro, Chopper e Luffy se perdem e vão parar em ruínas subterrâneas.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Filler"
+  },
+  {
+    "id": "03",
+    "titulo": "O Reino de Chopper na Ilha dos Estranhos Animais",
+    "data": "2 de Marçode 2002",
+    "resumo": "Os Chapéus de Palha chegam em uma ilha cheia de animais estranhos, onde Chopper vira amigo de um garoto fera e acaba se tornando o rei. Porém, uma gangue de caçadores está em busca de um par de chifes dourados mágicos.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Filme"
+  },
+  {
+    "id": "2",
+    "titulo": "O Rei do Futebol dos Sonhos",
+    "data": "2 de Marçode 2002",
+    "resumo": "A partida é entre os Piratas do Chapéu de Palha e os Vilões Estrelas. A atmosfera é tensa, pois é um mata-mata e tudo será decidido com um desempate. Com Nami e Vivi torcendo, uma multidão de milhares de pessoas e Koby, relutante (e azarado), como o goleiro, tudo está pronto. Mas com o bando favorito de todos enfrentando Buggy, Mr.2, Hatchan e Jango, conseguirá Luffy e seus companheiros derrotá-los e vencer o mata-mata para se tornarem os \"Reis do Futebol dos Sonhos\"?",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Curta-Metragem"
+  },
+  {
+    "id": "103",
+    "titulo": "No Spiders Café, os Líderes Inimigos se Encontram às Oito Horas",
+    "data": "3 de Março, de 2002",
+    "resumo": "O plano da Baroque Works é posto em prática, e para isso, os Agentes se reúnem para encontrar o Mr.0. Enquanto isso, o bando descobre que o Exército Rebelde se mudou de Yuba para Katorea, e o líder, Koza, está determinado à atacar.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "104",
+    "titulo": "Luffy vs. Vivi! O Triste Voto de Arriscar as Vidas de Seus Companheiros",
+    "data": "10 de Março, de 2002",
+    "resumo": "Vivi e Luffy tem ideias diferentes de como parar o Exército Rebelde e a Baroque Works, o que leva os dois a brigarem.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "105",
+    "titulo": "Frente de Batalha de Alabasta! A Cidade dos Sonhos, Rainbase!",
+    "data": "17 de Março, de 2002",
+    "resumo": "O bando viaja para a cidade de Rainbase para derrotar Crocodile e a Baroqu Works, mas acabam se deparando com Smoker e Tashigi.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "106",
+    "titulo": "Armadilha Sem Saída! Invadindo o Rain Dinners",
+    "data": "24 de Março, de 2002",
+    "resumo": "A maioria dos Chapéus de Palha, junto com Smoker, são presos por Crocodile. Vivi se reúne com o guarda real, Pell, mas é capturada por Miss All-Sunday. Crocodile exibe o poder de sua invencível Akuma no Mi.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "107",
+    "titulo": "Inicia-se a Operação Utopia! A Rebeliao que Começa a Se Mover",
+    "data": "14 de Abril, de 2002",
+    "resumo": "O plano da Baroque Works para tomar posse de Alabasta começa. O rei é sequestrado e acusado de um crime, e o Exército Rebelde começa a se mover.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "108",
+    "titulo": "Os Terríveis Bananawani e Mr. Prince",
+    "data": "21 de Abril, de 2002",
+    "resumo": "Quase todos os Chapéus de Palha estão presos, mas Crocodile recebe uma ligação de \"Mr. Prince\".",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "109",
+    "titulo": "A Chave Para a Grande Fuga Inesperada! Doru Doru Ball!",
+    "data": "28 de Abril, de 2002",
+    "resumo": "Chopper distrai Crocodile enquanto Sanji liberta o resto do bando, mas eles são aprisionados de novo. Smoker muda um pouco sua visão sobre Luffy.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "110",
+    "titulo": "Batalha Mortal Impiedosa! Luffy vs. Crocodile!",
+    "data": "5 de Maio, de 2002",
+    "resumo": "Depois de escapar de Rain Dinners, os Chapéus de Palha e Vivi atravessam o deserto de Alubarna, onde ocorrerá a batalha final. Porém, Crocodile consegue pegar Luffy, começando assim o primeiro round de sua luta.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "111",
+    "titulo": "Corrida Milagrosa! Alabasta, a Terra dos Animais",
+    "data": "12 de Maio, de 2002",
+    "resumo": "Luffy é deixado para morrer por Crocodile, mas é resgatado pela misteriosa Miss All-Sunday. Enquanto isso, o resto dos Chapéus de Palha chegam em Alubarna depois de encontrar o Esquadrão dos Superpatos Selvagens e os perigos do principal rio de Alabasta.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "112",
+    "titulo": "Exército Rebelde vs. Exército Real! A Batalha Será em Alubarna!",
+    "data": "19 de Maio, de 2002",
+    "resumo": "A revolução está prestes a começar e o bando surge com um plano para impedí-la.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "113",
+    "titulo": "Alubarna Chora! A Feroz Batalha do Capitão Karoo",
+    "data": "2 de Junho, de 2002",
+    "resumo": "As tentativas de Vivi para parar o Exército Rebelde são em vão, e ela é atacada por Mr. 2, Bon Clay, mas consegue escapar. Enquanto Isso, a luta de Usopp e Chopper contra o time Mr. 4 começa.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "114",
+    "titulo": "Promessa em Nome dos Sonhos dos Amigos! Batalha na Quarta Avenida na Galeria da Toupeira",
+    "data": "9 de Junho, de 2002",
+    "resumo": "Tudo parece perdido para Usopp e Chopper quando eles tomam todos os ataques do time Mr. 4. Porém, a luta parece ter esperança quando Usopp aprende o que é ser um verdadeiro homem.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "115",
+    "titulo": "A Grande Performance de Hoje! Mane Mane Montage!",
+    "data": "16 de Junho, de 2002",
+    "resumo": "Severamente feridos, Usopp e Chopper finalmente conseguem derrotar o time Mr. 4. Entretanto, Mr. 2 descobre o ponto fraco de Sanji.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "116",
+    "titulo": "Transformando-se em Nami! O Poderoso Ballet Kenpo de Bon Clay",
+    "data": "23 de Junho, de 2002",
+    "resumo": "Apesar de ter seu ponto fraco descoberto por Mr. 2, Sanji consegue derrotá-lo. Enquanto isso, antes que Vivi consiga ordenar a explosão do palácio, Crocodile aparece.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "117",
+    "titulo": "O Alerta Tornado de Nami! Explosão Clima Tact",
+    "data": "30 de Junho, de 2002",
+    "resumo": "Nami enfrenta a Miss Doublefinger e tenta descobrir como funciona sua nova arma feita por Usopp, o Clima Tact.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "118",
+    "titulo": "O Segredo da Família Real! A Antiga Arma, Pluton",
+    "data": "14 de Julho, de 2002",
+    "resumo": "Enquanto Crocodile conta a Vivi sobre a arma ancestral Pluton, Nami tenta derrotar Miss Doublefinger com sua técnica mais poderosa: o Tornado Tempo.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "119",
+    "titulo": "A Essência de Uma Poderosa Espada! O Poder Para Cortar Aço e o Sopro de Todas as Coisas",
+    "data": "21 de Julho, de 2002",
+    "resumo": "Se a luta de Miss Doublefinger contra Nami foi desafiadora, Zoro enfrenta mais dificuldade ainda lutando com Mr.1, um homem que consegue transformar seu corpo inteiro em metal - algo que ele não pode cortar. Perto da morte, o espadachim deve descobrir o segredo para a \"respiração de todas as coisas\".",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "120",
+    "titulo": "A Batalha Acabou! Koza Agita a Bandeira Branca",
+    "data": "4 de Agosto, de 2002",
+    "resumo": "Quando Vivi revela o plano de Crocodile para Koza, ele tenta parar a luta, mas é baleado. O Schichibukai revela que plantou uma imensa bomba na cidade.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "121",
+    "titulo": "A Voz de Vivi Não É Ouvida! Cai Um Herói!",
+    "data": "11 de Agosto, de 2002",
+    "resumo": "Com Koza tentando parar o Exército Rebelde, ambos os lados agora lutam novamente devido a intervenção da Baroque Works. Vivi é jogada para a morte, mas Luffy a salva e desafia Crocodile novamente.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "122",
+    "titulo": "Crocodilo de Areia e Luffy de Água! Duelo Mortal: Segundo Round",
+    "data": "18 de Agosto, de 2002",
+    "resumo": "Luffy luta com Crocodile mais efetivamente ao usar água, mas perde novamente. Enquanto isso, os Chapéus de Palha tentam localizar a bomba antes de explodir. Nico Robin força o rei a levá-la ao lugar onde o Poneglyph de Pluton está escondido.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "123",
+    "titulo": "Cheiro de Crocodilo! Corra Para o Cemitério da Família Real, Luffy!",
+    "data": "25 de Agosto, de 2002",
+    "resumo": "Crocodile se junta a Robin, e ordena que ela traduza o Poneglyph. A mulher diz que Pluton não era mencionado e que o texto era sobre história, mas o Schichibukai descobre sua mentira e a apunhala. Quando Luffy se recupera da última luta, ele vai atrás de Crocodile na tumba.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "124",
+    "titulo": "O Pesadelo Se Aproxima! A Base Secreta do Clã Suna Suna",
+    "data": "1 de Setembro, de 2002",
+    "resumo": "Luffy luta mais uma vez com Crocodile, dessa vez com o sangue de suas mãos. Enquanto isso, Vivi encontra a bomba, e chama os Chapéus de Palha.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "125",
+    "titulo": "Asas Magníficas! Meu Nome é Pell, o Espírito Guardião do Reino",
+    "data": "8 de Setembro, de 2002",
+    "resumo": "Vivi encotra a bomba dentro da torre do relógio, mas Mr. 7 e seu par estão lá para proteger o objeto. Ela os derrota, mas percebe que a explosão será interrompida tão facilmente. A bomba tem um cronômetro, e bem antes de explodir, Pell aparece e a leva para os ares, se sacrificando para salvar Alabasta.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "126",
+    "titulo": "Vou Te Superar! A Chuva Cai Sobre Alabasta!",
+    "data": "15 de Setembro, de 2002",
+    "resumo": "Luffy consegue derrotar Crocodile. Quando o líder da Baroque Works cai, chove sobre Alabasta, o que acalma os soldados.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "127",
+    "titulo": "Adeus, Armas! Piratas e Suas Justiças",
+    "data": "6 de Outubro, de 2002",
+    "resumo": "Com o fim da batalha, tudo começa a se resolver. Igaram aparece com provas da inocência de Cobra, e Koza conta tudo. Tashigi e Smoker são recompensados por derrubarem Crocodile, mas nenhum deles acha justo, visto que os Chapéus de Palha que fizeram todo o trabalho.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "128",
+    "titulo": "O Banquete dos Piratas e o Plano Para Escapar de Alabasta!",
+    "data": "6 de Outubro, de 2002",
+    "resumo": "Luffy é resgatado das ruínas da tomba onde lutou com Crocodile e levado até o palácio de Cobra para descansar. Ao acordar, um grandioso banquete é feito para os piratas, e então, o bando é convidado a aproveitar os banhos quentes.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "129",
+    "titulo": "Tudo Começou Naquele Dia! Vivi Conta as Aventuras",
+    "data": "20 de Outubro, de 2002",
+    "resumo": "Chegou o dia do discurso de Vivi e sua decisão de continuar ou não com os Chapéus de Palha. Enquanto isso, Bon Clay e seus homens tentam proteger o bando dos ataques de Hina.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "130",
+    "titulo": "Cheiro de Perigo! A Sétima É Nico Robin!",
+    "data": "27 de Outubro, de 2002",
+    "resumo": "A Marinha falha ao tentar capturar os Chapéus de Palha. Após escaparem deles, Nico Robin (Miss All-Sunday) aparece no Going Merry, e consegue persuadir o bando a deixar ela se unir à eles. Pell fica diante de seu próprio túmulo.",
+    "arco": "Arco Alabasta",
+    "saga": "Saga Alabasta",
+    "tipo": "Canon"
+  },
+  {
+    "id": "131",
+    "titulo": "O Primeiro Paciente! O Segredo da Rumble Ball",
+    "data": "3 de Novembro, de 2002",
+    "resumo": "Após suas aventuras em Alabasta, o bando se depara com outra ilha desértica e se separam. Chopper é deixado para cuidar o navio, e ele lembra do dia que fez a Rumble Ball e sua primeira paciente, Dra. Kureha, enquanto passa um tempo com a mais nova membra da tripulação: Nico Robin.",
+    "arco": "Arco Pós-Alabasta (Filler)",
+    "saga": "Saga Alabasta",
+    "tipo": "Filler"
+  },
+  {
+    "id": "132",
+    "titulo": "A Revolta da Navegadora! Pelo Sonho Inegociável!",
+    "data": "10 de Novembro, de 2002",
+    "resumo": "Um vendedor misterioso é pescado do mar, e Nami contra um mmonte de \"papel milenar\" dele para desenhar seus mapas. Porém, isso não será fácil com o resto do bando brincando como sempre.",
+    "arco": "Arco Pós-Alabasta (Filler)",
+    "saga": "Saga Alabasta",
+    "tipo": "Filler"
+  },
+  {
+    "id": "133",
+    "titulo": "Receita Herdada! Sanji, o Homem de Ferro do Curry",
+    "data": "17 de Novembro, de 2002",
+    "resumo": "O Going Merry se depara com vários navios da Marinha cobertos por nevoa, e os Chapéus de Palha encontram um chef estagiário chamado Tajiyo. Sanji o ajuda com um problema culinário.",
+    "arco": "Arco Pós-Alabasta (Filler)",
+    "saga": "Saga Alabasta",
+    "tipo": "Filler"
+  },
+  {
+    "id": "134",
+    "titulo": "Vou Fazer Florescer! O Homem, Usopp, e a Esfera de 8 Shaku",
+    "data": "24 de Novembro, de 2002",
+    "resumo": "O bando para em uma ilha que está tendo um festival anual de fogos de artifício. Lá, Usopp encontra Kodama, uma jovem que cria fogos, e a ajuda a realizar seu sonho.",
+    "arco": "Arco Pós-Alabasta (Filler)",
+    "saga": "Saga Alabasta",
+    "tipo": "Filler"
+  },
+  {
+    "id": "135",
+    "titulo": "O Caçador de Piratas dos Rumores! Zoro, o Espadachim Andarilho",
+    "data": "1 de Dezembro, de 2002",
+    "resumo": "Zoro se lembra de quando conheceu Johnny e Yosaku e enfrentou uns bandidos.",
+    "arco": "Arco Pós-Alabasta (Filler)",
+    "saga": "Saga Alabasta",
+    "tipo": "Filler"
+  }
+]
