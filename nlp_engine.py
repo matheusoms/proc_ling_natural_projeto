@@ -381,10 +381,10 @@ class OnePieceChatbot:
         # Nenhuma entidade reconhecida → estatísticas gerais
         if not filtros_aplicados:
             total_por_tipo = self._df["tipo"].value_counts()
-            linhas = ["📊 **Estatísticas gerais do dataset:**\n"]
+            linhas = ["**Estatísticas gerais do dataset:**\n"]
             for tipo_ep, qtd in total_por_tipo.items():
                 linhas.append(f"  • {tipo_ep}: {qtd} episódio(s)")
-            linhas.append(f"\n📌 **Total: {len(self._df)} episódios** em {len(self._sagas_unicas)} sagas.")
+            linhas.append(f"\n **Total: {len(self._df)} episódios** em {len(self._sagas_unicas)} sagas.")
             linhas.append("\nUse 'Ver Arcos' para saber o que posso consultar!")
             return "\n".join(linhas)
 
@@ -439,9 +439,9 @@ class OnePieceChatbot:
 
         if score < LIMIAR_CONFIANCA:
             return (
-                "🤔 Não encontrei episódios relacionados à sua pergunta. "
+                "Não encontrei episódios relacionados à sua pergunta. "
                 "Tente ser mais específico!\n\n"
-                "💡 Dica: mencione personagens, eventos ou locais específicos de One Piece."
+                "Dica: mencione personagens, eventos ou locais específicos de One Piece."
             )
 
         ep = self._df.iloc[idx_melhor]

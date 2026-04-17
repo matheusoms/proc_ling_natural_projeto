@@ -7,6 +7,7 @@ da Fandom Wiki de One Piece (PT-BR) e salvar em dataset_episodios.json.
 ESTRATÉGIA HÍBRIDA DE PARSING:
   - Saga East Blue e Saga Alabasta usam tabelas 'collapsible collapsed'
     com dados completos (id, título, data, resumo) inline na página.
+    
   - A partir da Saga Ilha do Céu, os episódios são listados como <ul><li>
     com apenas o número, título e tipo textual. O resumo é obtido acessando
     a página individual de cada episódio (ex: /pt/wiki/Episódio_139).
@@ -542,14 +543,14 @@ def scrape_todas_sagas() -> list[dict]:
     """
     todos: list[dict] = []
 
-    print("\n🏴‍☠️  Iniciando scraping das sagas de One Piece...\n")
+    print("\n Iniciando scraping das sagas de One Piece...\n")
     scraper = _criar_scraper()
 
     # --- Formato Tabela ---
     for indice, (url, nome_saga) in enumerate(SAGAS_FORMATO_TABELA):
         eps = scrape_pagina_formato_tabela(url, nome_saga, scraper)
         todos.extend(eps)
-        print(f"  ⏳ Aguardando {DELAY_SAGA}s...\n")
+        print(f" Aguardando {DELAY_SAGA}s...\n")
         time.sleep(DELAY_SAGA)
 
     # --- Formato Lista ---
@@ -557,10 +558,10 @@ def scrape_todas_sagas() -> list[dict]:
         eps = scrape_pagina_formato_lista(url, nome_saga, scraper)
         todos.extend(eps)
         if indice < len(SAGAS_FORMATO_LISTA) - 1:
-            print(f"  ⏳ Aguardando {DELAY_SAGA}s antes da próxima saga...\n")
+            print(f"Aguardando {DELAY_SAGA}s antes da próxima saga...\n")
             time.sleep(DELAY_SAGA)
 
-    print(f"\n✅ Scraping concluído! Total: {len(todos)} episódios.\n")
+    print(f"\n Scraping concluído! Total: {len(todos)} episódios.\n")
     return todos
 
 
@@ -576,7 +577,7 @@ def salvar_dataset(episodios: list[dict], path: str = "dataset_episodios.json") 
     try:
         with open(path, "w", encoding="utf-8") as f:
             json.dump(episodios, f, ensure_ascii=False, indent=2)
-        print(f"💾 Dataset salvo: '{path}' ({len(episodios)} episódios).")
+        print(f"Dataset salvo: '{path}' ({len(episodios)} episódios).")
     except OSError as erro:
         print(f"[ERRO] Não foi possível salvar '{path}': {erro}")
 
@@ -590,10 +591,10 @@ if __name__ == "__main__":
 
     if os.path.exists(caminho):
         resposta = input(
-            f"\n⚠️  '{caminho}' já existe. Re-raspar e sobrescrever? [s/N]: "
+            f"\n '{caminho}' já existe. Re-raspar e sobrescrever? [s/N]: "
         ).strip().lower()
         if resposta != "s":
-            print("✅ Usando dataset existente.")
+            print("Usando dataset existente.")
         else:
             salvar_dataset(scrape_todas_sagas(), caminho)
     else:

@@ -191,7 +191,7 @@ main.py ──► JanelaChatbot (Tkinter + threads)
 
 | Biblioteca | Uso |
 |---|---|
-| `requests` + `beautifulsoup4` | Web Scraping da Fandom Wiki |
+| `cloudscraper` + `beautifulsoup4` | Web Scraping da Fandom Wiki (com bypass do Cloudflare)|
 | `spacy` + `pt_core_news_lg` | NER e análise linguística |
 | `scikit-learn` | TF-IDF e similaridade de cossenos |
 | `pandas` | Manipulação do dataset em DataFrame |
