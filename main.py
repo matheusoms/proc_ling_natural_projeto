@@ -264,16 +264,13 @@ class JanelaChatbot:
 
         # Mensagem de boas-vindas
         boas_vindas = (
-            "🏴‍☠️  Olá! Sou o Guia Especialista de One Piece!\n\n"
-            "Posso responder perguntas sobre episódios das sagas pré-time-skip.\n\n"
-            "📌 Exemplos de perguntas:\n"
-            "  • 'Liste os episódios filler do Arco Loguetown'\n"
-            "  • 'Quais são os episódios recap da Saga Alabasta?'\n"
-            "  • 'Quantos filmes existem na Saga East Blue?'\n"
-            "  • 'Em qual episódio Luffy luta contra Arlong?'\n"
-            "  • 'Me conta sobre o episódio com Zoro e Mihawk'\n"
-            "  • 'Episódios da Saga Water 7'\n\n"
-            "Use o botão 📋 para ver todos os arcos disponíveis!"
+            "🏴‍☠️  Olá! Sou o Guia Especialista de One Piece (Híbrido IA)!\n\n"
+            "Agora entendo seus sentimentos e também perguntas em Inglês.\n"
+            "Posso responder sobre episódios, arcos e sagas.\n\n"
+            "📌 Exemplos:\n"
+            "  • 'Quais os fillers do Arco Arlong Park?'\n"
+            "  • 'Tell me about Luffy vs Crocodile'\n\n"
+            "Use o botão 📋 para ver todos os arcos!"
         )
         self._exibir_mensagem("bot", f"🤖 Bot: {boas_vindas}")
 
