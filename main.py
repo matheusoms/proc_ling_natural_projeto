@@ -193,9 +193,31 @@ class JanelaChatbot:
         )
         self._botao_enviar.pack(side=tk.RIGHT)
 
+        # Linha de botões auxiliares (Nova Conversa + Ver Arcos)
+        frame_botoes_aux = tk.Frame(frame_entrada, bg=CORES["fundo"])
+        frame_botoes_aux.pack(fill=tk.X, pady=(4, 2))
+
+        # Botão 🔄 Nova Conversa (REQ 5-C)
+        self._botao_nova_conversa = tk.Button(
+            frame_botoes_aux,
+            text="🔄  Nova Conversa",
+            command=self._ao_nova_conversa,
+            bg="#1b5e20",
+            fg="#c8e6c9",
+            font=("Segoe UI", 9),
+            relief=tk.FLAT,
+            cursor="hand2",
+            pady=4,
+            padx=10,
+            activebackground="#2e7d32",
+            activeforeground=CORES["texto_geral"],
+            state=tk.DISABLED,
+        )
+        self._botao_nova_conversa.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 3))
+
         # Botão de arcos disponíveis
         self._botao_arcos = tk.Button(
-            frame_entrada,
+            frame_botoes_aux,
             text="📋  Ver Arcos Disponíveis",
             command=self._ao_ver_arcos,
             bg=CORES["botao_arcos_bg"],
@@ -204,11 +226,12 @@ class JanelaChatbot:
             relief=tk.FLAT,
             cursor="hand2",
             pady=4,
+            padx=10,
             activebackground="#455a64",
             activeforeground=CORES["texto_geral"],
             state=tk.DISABLED,
         )
-        self._botao_arcos.pack(fill=tk.X, pady=(4, 2))
+        self._botao_arcos.pack(side=tk.RIGHT, fill=tk.X, expand=True, padx=(3, 0))
 
         # Bind da tecla Enter ao envio
         self._raiz.bind("<Return>", lambda _: self._ao_enviar())
@@ -260,6 +283,7 @@ class JanelaChatbot:
         self._entrada.configure(state=tk.NORMAL)
         self._botao_enviar.configure(state=tk.NORMAL)
         self._botao_arcos.configure(state=tk.NORMAL)
+        self._botao_nova_conversa.configure(state=tk.NORMAL)
         self._entrada.focus_set()
 
         # Mensagem de boas-vindas
@@ -339,6 +363,18 @@ class JanelaChatbot:
 
         # Agendar exibição na thread principal
         self._raiz.after(0, self._exibir_mensagem, "bot", f"🤖 Bot: {resposta}")
+
+    def _ao_nova_conversa(self) -> None:
+        """
+        Reseta o histórico emocional da sessão (REQ 5-C) e exibe
+        mensagem de confirmação na área de chat com tag 'sistema'.
+        """
+        if self._chatbot is None or self._carregando:
+            return
+        self._chatbot.reset_sessao()
+        self._exibir_mensagem_sistema(
+            "🔄 Nova conversa iniciada. Histórico emocional reiniciado."
+        )
 
     def _ao_ver_arcos(self) -> None:
         """Exibe a listagem de arcos disponíveis no chat."""
