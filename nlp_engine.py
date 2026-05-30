@@ -72,9 +72,9 @@ def _normalizar_texto(texto: str) -> str:
 class OnePieceChatbot:
     """
     Chatbot especialista em One Piece com suporte a:
-      - Busca por filtros lógicos e busca semântica via TF-IDF
-      - Análise de humor com rastreio de sessão emocional (REQ 5)
-      - Tradução PT→EN com cache em memória (REQ 1)
+    - Busca por filtros lógicos e busca semântica via TF-IDF
+    - Análise de humor com rastreio de sessão emocional (REQ 5)
+    - Tradução PT→EN com cache em memória (REQ 1)
     """
 
     # --- Atributos de Classe (Constantes) ---
@@ -96,6 +96,46 @@ class OnePieceChatbot:
         "especial mobile": "Especial Mobile", "curta-metragem": "Curta-Metragem",
         "curta": "Curta-Metragem",
     }
+    PERSONAGENS = {
+    "luffy",
+    "zoro",
+    "sanji",
+    "nami",
+    "usopp",
+    "chopper",
+    "robin",
+    "franky",
+    "brook",
+    "jinbe",
+    "ace",
+    "sabo",
+    "shanks",
+    "mihawk",
+    "crocodile",
+    "doflamingo",
+    "kaido",
+    "big mom",
+    "law",
+    "kid",
+    "buggy",
+    "smoker",
+    "garp",
+    "sengoku",
+    "whitebeard",
+    "blackbeard",
+    }
+
+    ALIASES_PERSONAGENS = {
+        "rufy": "luffy",
+        "monkey d luffy": "luffy",
+        "barba branca": "whitebeard",
+        "edward newgate": "whitebeard",
+        "barba negra": "blackbeard",
+        "marshall d teach": "blackbeard",
+        "trafalgar law": "law",
+        "eustass kid": "kid",
+    }
+    
 
     def __init__(self, path: str = "dataset_episodios.json") -> None:
         # 1. Carregar dataset
@@ -271,7 +311,26 @@ class OnePieceChatbot:
             return "en" if detect(texto) == "en" else "pt"
         except Exception:
             return "pt"
+    
+    def _aplicar_aliases(self, texto: str) -> str:
+        texto = _normalizar_texto(texto)
 
+        for alias, canonico in self.ALIASES_PERSONAGENS.items():
+            texto = texto.replace(
+                _normalizar_texto(alias),
+                canonico
+            )
+
+            return texto
+
+    def _extrair_personagens(self, texto: str) -> list[str]:
+        texto = self._aplicar_aliases(texto)
+        encontrados = []
+        for personagem in self.PERSONAGENS:
+            padrao = rf"\b{re.escape(personagem)}\b"
+            if re.search(padrao, texto):
+                encontrados.append(personagem)
+        return encontrados
     # -----------------------------------------------------------------------
     # REQ 5 — Classificação de humor com proteção contra falso-negativo
     # -----------------------------------------------------------------------
@@ -456,7 +515,7 @@ class OnePieceChatbot:
                 tipo = self.MAPA_TIPO_CANONICO.get(kn, kw.capitalize())
                 break
 
-        return {"arco": arco, "saga": saga, "tipo": tipo}
+        return {"arco": arco, "saga": saga, "tipo": tipo, "personagens": self._extrair_personagens(texto_orig)}
 
     def _busca_por_filtros(self, ent: dict, idioma: str = "pt") -> str:
         mask = pd.Series([True] * len(self._df), index=self._df.index)
@@ -494,9 +553,37 @@ class OnePieceChatbot:
         return "\n".join(linhas)
 
     def _busca_semantica(self, texto: str, idioma: str = "pt") -> str:
+
         t_limpo = self._pre_processar_para_busca(texto)
+
         v_pergunta = self._vetorizador.transform([t_limpo])
-        sim = cosine_similarity(v_pergunta, self._matriz_tfidf).flatten()
+
+        sim = cosine_similarity(
+            v_pergunta,
+            self._matriz_tfidf
+        ).flatten()
+
+        # Detecta personagens mencionados na pergunta
+        personagens = self._extrair_personagens(texto)
+
+        # Dá bônus para episódios que mencionam esses personagens
+        for personagem in personagens:
+
+            mask_resumo = self._df["resumo"].str.contains(
+                personagem,
+                case=False,
+                na=False
+            )
+
+            mask_titulo = self._df["titulo"].str.contains(
+                personagem,
+                case=False,
+                na=False
+            )
+
+            sim[mask_resumo] += 0.25
+            sim[mask_titulo] += 0.40
+
         idx = int(sim.argmax())
 
         if sim[idx] < 0.15:
@@ -507,4 +594,5 @@ class OnePieceChatbot:
             )
 
         ep = self._df.iloc[idx].to_dict()
+
         return self._formatar_episodio(ep, idioma)
